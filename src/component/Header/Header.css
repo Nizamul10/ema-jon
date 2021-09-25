@@ -1,0 +1,17 @@
+.logo{
+    height: 100px;
+    width: 300px;
+    align-items: center;
+}
+.nav {
+    background-color: black;
+    text-align: justify;
+    line-height: 40px;
+
+    
+}
+.nav a{
+    color: white;
+    text-decoration:none;
+    margin-left: 20px;
+}

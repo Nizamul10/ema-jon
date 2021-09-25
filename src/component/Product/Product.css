@@ -1,0 +1,16 @@
+.imege{
+
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+.color{
+    color: blue;
+    font-size: medium;
+}
+.button{
+
+    background-color: rgb(197, 146, 110);
+    padding: 5px;
+    border-radius: 5px;
+    width: 200px;
+}

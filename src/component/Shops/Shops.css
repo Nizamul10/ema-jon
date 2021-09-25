@@ -1,0 +1,10 @@
+.grid{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    text-align: justify;
+}
+.product{
+    border-right: 2px solid rgb(87, 64, 53);
+    margin-right: 10px;
+    margin-left: 100px;
+}
